@@ -16,7 +16,7 @@ namespace QLBanHangSieuThi
         {
             InitializeComponent();
         }
-
+        // tạo watermarked (hình mờ)
         private void txt_tk_Enter(object sender, EventArgs e)
         {
             if(txt_tk.Text== "Nhập tài khoản")
@@ -40,6 +40,7 @@ namespace QLBanHangSieuThi
             if (txt_mk.Text == "Nhập mật khẩu")
             {
                 txt_mk.Text = "";
+                txt_mk.PasswordChar = '*';
                 txt_mk.ForeColor = Color.Black;
             }
         }
@@ -49,6 +50,7 @@ namespace QLBanHangSieuThi
             if (txt_mk.Text == "")
             {
                 txt_mk.Text = "Nhập mật khẩu";
+                txt_mk.PasswordChar = '\0';
                 txt_mk.ForeColor = Color.DarkSlateGray;
             }
         }
@@ -61,7 +63,7 @@ namespace QLBanHangSieuThi
             }
             if(txt_mk.Text=="Nhập mật khẩu" || txt_mk.Text == "")
             {
-                MessageBox.Show("Nhâpj vào thông tin mật khẩu");
+                MessageBox.Show("Nhập vào thông tin mật khẩu");
             }
             if (txt_tk.Text == "admin" && txt_mk.Text == "admin")
             {

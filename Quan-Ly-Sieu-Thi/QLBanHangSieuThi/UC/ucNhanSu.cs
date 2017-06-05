@@ -193,8 +193,20 @@ namespace QLBanHangSieuThi.UC
         {
             using (var db = new MyContext())
             {
-                dgvList.DataSource = db.NhanViens.ToList();
+               // dgvList.DataSource = db.Database.SqlQuery<dynamic>("sp_nv_xem1",new object[] {}).ToList();
+                dgvList.DataSource = db.Database.SqlQuery<xemnhanvien>("sp_nv_xem", new object[] { }).ToList();
             }
+            //dgvList.Columns[0].HeaderText = "Mã";
+            //dgvList.Columns[1].HeaderText = "Tên";
+            //dgvList.Columns[2].HeaderText = "Giới tính";
+            //dgvList.Columns[3].HeaderText = "Ngày sinh";
+            //dgvList.Columns[4].HeaderText = "Địa chỉ";
+            //dgvList.Columns[5].HeaderText = "Liên hệ";
+            //dgvList.Columns[6].HeaderText = "Lương";
+            //dgvList.Columns[7].HeaderText = "Mã chức vụ";
+            //dgvList.Columns[8].HeaderText = "Mã kho";
+            //dgvList.Columns[9].Visible = false;
+            //dgvList.Columns[10].Visible = false;
         }
 
         private void UcNhanSu_Load(object sender, EventArgs e)

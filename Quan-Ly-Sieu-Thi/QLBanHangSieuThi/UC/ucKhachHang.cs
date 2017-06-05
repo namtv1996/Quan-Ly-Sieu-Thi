@@ -186,6 +186,13 @@ namespace QLBanHangSieuThi.UC
             {
                 dgvList.DataSource = db.KhachHangs.ToList();
             }
+            dgvList.Columns[0].HeaderText = "Mã";
+            dgvList.Columns[1].HeaderText = "Tên";
+            dgvList.Columns[2].HeaderText = "Ngày sinh";
+            dgvList.Columns[3].HeaderText = "Giới tính";
+            dgvList.Columns[4].HeaderText = "Địa chỉ";
+            dgvList.Columns[5].HeaderText = "Liên hệ";
+            dgvList.Columns[6].HeaderText = "Hóa đơn";
         }
 
         private void UcKhachHang_Load(object sender, EventArgs e)

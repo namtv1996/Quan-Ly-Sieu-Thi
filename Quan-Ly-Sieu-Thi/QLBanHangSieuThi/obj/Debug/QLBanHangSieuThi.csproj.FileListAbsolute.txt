@@ -38,3 +38,24 @@ C:\Users\namtv1996\Desktop\GITHUB-PROJECT\QL siêu thị\QLBanHangSieuThi\QLBanH
 C:\Users\namtv1996\Desktop\GITHUB-PROJECT\QL siêu thị\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.csproj.GenerateResource.Cache
 C:\Users\namtv1996\Desktop\GITHUB-PROJECT\QL siêu thị\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.UC.ucHuongDan.resources
 C:\Users\namtv1996\Desktop\GITHUB-PROJECT\QL siêu thị\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.Login.resources
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Quan  Ly Sieu Thi\Quan-Ly-Sieu-Thi\Quan-Ly-Sieu-Thi\QLBanHangSieuThi\bin\Debug\QLBanHangSieuThi.exe.config
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Quan  Ly Sieu Thi\Quan-Ly-Sieu-Thi\Quan-Ly-Sieu-Thi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.exe
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Quan  Ly Sieu Thi\Quan-Ly-Sieu-Thi\Quan-Ly-Sieu-Thi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.pdb
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Quan  Ly Sieu Thi\Quan-Ly-Sieu-Thi\Quan-Ly-Sieu-Thi\QLBanHangSieuThi\bin\Debug\QLBanHangSieuThi.exe
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Quan  Ly Sieu Thi\Quan-Ly-Sieu-Thi\Quan-Ly-Sieu-Thi\QLBanHangSieuThi\bin\Debug\QLBanHangSieuThi.pdb
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Quan  Ly Sieu Thi\Quan-Ly-Sieu-Thi\Quan-Ly-Sieu-Thi\QLBanHangSieuThi\bin\Debug\EntityFramework.dll
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Quan  Ly Sieu Thi\Quan-Ly-Sieu-Thi\Quan-Ly-Sieu-Thi\QLBanHangSieuThi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Quan  Ly Sieu Thi\Quan-Ly-Sieu-Thi\Quan-Ly-Sieu-Thi\QLBanHangSieuThi\bin\Debug\EntityFramework.xml
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Quan  Ly Sieu Thi\Quan-Ly-Sieu-Thi\Quan-Ly-Sieu-Thi\QLBanHangSieuThi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Quan  Ly Sieu Thi\Quan-Ly-Sieu-Thi\Quan-Ly-Sieu-Thi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.csprojResolveAssemblyReference.cache
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Quan  Ly Sieu Thi\Quan-Ly-Sieu-Thi\Quan-Ly-Sieu-Thi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.Form1.resources
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Quan  Ly Sieu Thi\Quan-Ly-Sieu-Thi\Quan-Ly-Sieu-Thi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.Login.resources
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Quan  Ly Sieu Thi\Quan-Ly-Sieu-Thi\Quan-Ly-Sieu-Thi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.Properties.Resources.resources
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Quan  Ly Sieu Thi\Quan-Ly-Sieu-Thi\Quan-Ly-Sieu-Thi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.UC.ucHome.resources
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Quan  Ly Sieu Thi\Quan-Ly-Sieu-Thi\Quan-Ly-Sieu-Thi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.UC.ucHuongDan.resources
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Quan  Ly Sieu Thi\Quan-Ly-Sieu-Thi\Quan-Ly-Sieu-Thi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.UC.ucKhachHang.resources
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Quan  Ly Sieu Thi\Quan-Ly-Sieu-Thi\Quan-Ly-Sieu-Thi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.UC.ucNhanSu.resources
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Quan  Ly Sieu Thi\Quan-Ly-Sieu-Thi\Quan-Ly-Sieu-Thi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.UC.ucNhapHangHoa.resources
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Quan  Ly Sieu Thi\Quan-Ly-Sieu-Thi\Quan-Ly-Sieu-Thi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.UC.ucThongKe.resources
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Quan  Ly Sieu Thi\Quan-Ly-Sieu-Thi\Quan-Ly-Sieu-Thi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.UC.ucXuatHangHoa.resources
+C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Quan  Ly Sieu Thi\Quan-Ly-Sieu-Thi\Quan-Ly-Sieu-Thi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.csproj.GenerateResource.Cache

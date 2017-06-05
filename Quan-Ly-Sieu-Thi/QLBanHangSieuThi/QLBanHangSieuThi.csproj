@@ -76,6 +76,8 @@
     <Compile Include="Model\NhaCungCap.cs" />
     <Compile Include="Model\NhanVien.cs" />
     <Compile Include="Model\PhieuNhap.cs" />
+    <Compile Include="Model\sysdiagram.cs" />
+    <Compile Include="Model\xemnhanvien.cs" />
     <Compile Include="Object\ChiTietHangHoa.cs" />
     <Compile Include="Object\ThongKe.cs" />
     <Compile Include="Program.cs" />

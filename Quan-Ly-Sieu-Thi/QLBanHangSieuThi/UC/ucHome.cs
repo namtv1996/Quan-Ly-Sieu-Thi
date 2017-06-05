@@ -127,6 +127,19 @@ namespace QLBanHangSieuThi.UC
             {
                 dgvList.DataSource = db.Database.SqlQuery<ChiTietHangHoa>("sp_hh_xem",
                     new object[] { }).ToList();
+
+                dgvList.Columns[0].HeaderText = "Mã";
+                dgvList.Columns[1].HeaderText = "Tên";
+                dgvList.Columns[2].HeaderText = "Giá nhập";
+                dgvList.Columns[3].HeaderText = "Giá bán";
+                dgvList.Columns[4].HeaderText = "Ngày nhập";
+                dgvList.Columns[5].HeaderText = "Số lượng";
+                dgvList.Columns[6].HeaderText = "Ngày sản xuất";
+                dgvList.Columns[7].HeaderText = "Hạn dùng";
+                dgvList.Columns[8].HeaderText = "Tình trạng";
+                dgvList.Columns[9].HeaderText = "Mã kho";
+                dgvList.Columns[10].HeaderText = "Mã nhà cung cấp";
+
             }
         }
 

@@ -26,7 +26,7 @@ namespace QLBanHangSieuThi.Model
         [StringLength(20)]
         public string lienhe { get; set; }
 
-        public double? luong { set; get; }
+        public double? luong { get; set; }
 
         public int? machucvu { get; set; }
 

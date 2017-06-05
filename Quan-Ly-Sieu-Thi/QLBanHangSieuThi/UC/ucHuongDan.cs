@@ -15,7 +15,7 @@ namespace QLBanHangSieuThi.UC
         public ucHuongDan()
         {
             InitializeComponent();
-            webBrowser2.Navigate(@"C:\Users\namtv1996\Desktop\GITHUB-PROJECT\QL siêu thị\QLBanHangSieuThi\QLBanHangSieuThi\File\huong-dan-Ql-sieu-thi.htm");
+            webBrowser2.Navigate(@"C:\Users\namtv1996\Desktop\GITHUB-PROJECT\Quan  Ly Sieu Thi\Quan-Ly-Sieu-Thi\Quan-Ly-Sieu-Thi\QLBanHangSieuThi\File\huong-dan-Ql-sieu-thi.htm");
         }
     }
 }
